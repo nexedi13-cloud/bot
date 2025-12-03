@@ -10,7 +10,7 @@ cd /workspace/telegram_task_bot
 if [ ! -f ".env" ]; then
     echo "Error: .env file not found!"
     echo "Please create a .env file with your bot token:"
-    echo "TELEGRAM_BOT_TOKEN=your_bot_token_here"
+    echo "TELEGRAM_BOT_TOKEN=8472791930:AAE_rKCc8QzPgFud9ngU9t9s0_kL-j18uXE"
     exit 1
 fi
 
